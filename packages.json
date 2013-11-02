@@ -1,0 +1,19 @@
+{
+	"schema_version": "1.0",
+	"packages": [
+		{
+			"name": "Theme - Blocks",
+			"details": "https://github.com/ilikecookies/theme-blocks",
+			"author": "Miguel Quiambao",
+			"labels": ["theme"],
+			"readme": "https://raw.github.com/ilikecookies/theme-blocks/master/README.md",
+			"issues": "https://github.com/ilikecookies/theme-blocks/issues",
+			"releases": [
+        {
+            "sublime_text": "*",
+            "details": "https://github.com/ilikecookies/theme-blocks/tags"
+     		}
+      ]
+		}
+	]
+}
